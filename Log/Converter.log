@@ -1,0 +1,20 @@
+May 03, 2021 1:45:52 PM main.java.com.test.pgp.bc.BCPGPFileAndFolder checkConfigDecrypt
+INFO: Reading configuration file.
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.BCPGPDecrypt main
+INFO: File KAI001_000001176908_20200722.txt.asc encrypted
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.ConvertMT940 convertDecrypt
+INFO: Start mapping file mnemonic
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.ConvertMT940 convertDecrypt
+INFO: Mapping file mnemonic done
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.ConvertMT940 convertDecrypt
+INFO: Starting convert file KAI001_000001176908_20200722.txt.asc.txt
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.ConvertMT940 getCurrency
+INFO: Currency found
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.ConvertMT940 convertDecrypt
+INFO: File KAI001_000001176908_20200722.txt.asc.txt converted
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.ConvertMT940 moveFile
+INFO: File KAI001_000001176908_20200722.txt.asc moved to BACKUP
+May 03, 2021 1:45:53 PM main.java.com.test.pgp.bc.ConvertMT940 moveFileSplit
+INFO: File KAI001_000001176908_20200722.txt.asc moved to BACKUP
